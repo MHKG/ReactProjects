@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/login-page" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/my-react-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react-todo-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
